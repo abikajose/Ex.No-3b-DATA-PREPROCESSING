@@ -14,7 +14,7 @@ To perform data preprocessing on a dataset using Python and Scikit-learn by hand
 10.	Encode the dependent variable Purchased using LabelEncoder. 
 11.	Split the dataset into training and testing sets using train_test_split. 
 12.	Apply StandardScaler for feature scaling. 
-13.	Display the preprocessed training and testing datasets. 
+13.	Display the preprocessed training and testing datasets.
 ### Program
 # Step 1: Import libraries and load dataset
 from google.colab import drive
