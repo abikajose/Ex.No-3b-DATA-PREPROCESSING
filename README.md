@@ -3,7 +3,7 @@
 To perform data preprocessing on a dataset using Python and Scikit-learn by handling missing values, encoding categorical data, splitting the dataset, and applying feature scaling. 
 ## Procedure
 1.	Import the required Python libraries. 
-2.	Mount Google Drive and load the dataset using Pandas. 
+2.	Mount Google Drive and load the dataset using Pandas.
 3.	Display the first few records of the dataset. 
 4.	Inspect the dataset using df.info() and df.shape. 
 5.	Separate the independent variables (X) and dependent variable (Y). 
